@@ -10,7 +10,7 @@
 
   <groupId>jp.co.sony.csl.dcoes.apis</groupId>
   <artifactId>apis-bom</artifactId>
-  <version>3.0.0-a01</version>
+  <version>3.0.0</version>
   <packaging>pom</packaging>
 
   <name>APIS BOM</name>
